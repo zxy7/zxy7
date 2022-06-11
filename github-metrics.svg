@@ -1066,6 +1066,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1245,7 +1250,7 @@
                     <rect mask="url(#languages-bar)" x="883.2899419765295" y="0" width="12.42915726039665" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="895.7190992369261" y="0" width="9.284277691747981" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="905.003376928674" y="0" width="5.911796861881752" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="910.9151737905557" y="0" width="5.469982648930017" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="910.9151737905557" y="0" width="5.469982648930017" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="916.3851564394859" y="0" width="3.614843560514189" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
@@ -1317,7 +1322,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -1369,7 +1374,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2022, 09:50:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 09:43:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
